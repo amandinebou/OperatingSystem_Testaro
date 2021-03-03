@@ -1,0 +1,16 @@
+# Ceci est un exemple de suite
+
+< TOTO \
+TUTU
+< TATA
+$ cat > fich
+
+> TOTO TUTU
+> TATA
+$ cat fich
+
+> TOTO \
+TUTU
+$ echo TOTO TUTU
+
+p teste d'une ligne p 
